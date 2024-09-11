@@ -1,6 +1,5 @@
-package ru.netology.test;
+package netology.test;
 
-.ru.netology.test;
 
 
 import com.codeborne.selenide.logvents.SelenideLogger;

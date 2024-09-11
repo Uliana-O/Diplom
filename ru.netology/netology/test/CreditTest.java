@@ -207,8 +207,7 @@ public class CreditTest {
 
     @Test
     @DisplayName("55.Credit.CardholderName.Partial name")
-            void creditPartialCardholderName() {
-
+    void creditPartialCardholderName() {
             var card = DataHelper.cardholderNameValidate(DataHelper.generateLatin().substring(0, 1));
             formPage.setPaymentCardInfo(card);
 

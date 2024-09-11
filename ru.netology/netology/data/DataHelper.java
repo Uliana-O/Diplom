@@ -9,6 +9,7 @@ import java.util.Random;
 
 public class DataHelper {
 
+    public static String generateLatin() {
     import com.github.javafaker.Faker;
     import lombok.Value;
     import java.time.LocalDate;
@@ -119,6 +120,8 @@ public class DataHelper {
 
     }
 
+    }
 }
+
 
 
