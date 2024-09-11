@@ -1,4 +1,4 @@
-package netology.test;
+package ru.netology.test;
 
 
 

@@ -9,16 +9,6 @@ import java.util.Random;
 
 public class DataHelper {
 
-    public static String generateLatin() {
-    import com.github.javafaker.Faker;
-    import lombok.Value;
-    import java.time.LocalDate;
-    import java.time.format.DateTimeFormatter;
-    import java.util.Locale;
-    import java.util.Random;
-
-    public class DataHelper{
-
         private static Faker faker = new Faker(new Locale(("en"));
 
         private DataHelper(){
@@ -120,8 +110,7 @@ public class DataHelper {
 
     }
 
-    }
-}
+
 
 
 
