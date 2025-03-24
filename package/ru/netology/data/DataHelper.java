@@ -1,6 +1,7 @@
 package ru.netology.data;
 
-import lombok.Value;
+import
+        lombok.Value;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
